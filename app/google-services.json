@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738282715030",
+    "project_id": "street-issues-d96c5",
+    "storage_bucket": "street-issues-d96c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738282715030:android:0d6f92b00fea9cb1f00fb7",
+        "android_client_info": {
+          "package_name": "com.barmej.streetissues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738282715030-i5832pfa7fvr77bmc40vneju68ha006o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltynxqz0qdW1FupJKchgXNuy1M-vBHL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738282715030-i5832pfa7fvr77bmc40vneju68ha006o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

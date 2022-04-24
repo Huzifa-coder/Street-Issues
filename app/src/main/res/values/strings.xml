@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Street Issues</string>
+    <string name="issues_list">قائمه المشاكل</string>
+    <string name="issues_on_map">الخارطة</string>
+    <string name="file_issue">أبلغ عن مشكلة</string>
+    <string name="title">العنوان</string>
+    <string name="description">التفاصيل</string>
+    <string name="date_sample">5 مايو 2019</string>
+    <string name="erore_to_informiton">خطاء في جلب البيانات</string>
+    <string name="select_photo">اختر صورة</string>
+    <string name="error_select_photo">حدث خطاء في اختيار الصورة</string>
+    <string name="upload_photo">جارى رفع الصورة...</string>
+    <string name="issue_completed">تم رفع البلاغ بنجاح</string>
+    <string name="issue_uncompleted">خطاء في رفع البلاغ</string>
+    <string name="photo_uncompleted">خطاء في رفع الصورة</string>
+    <string name="details_is_empty">املاء التفاصيل</string>
+    <string name="title_is_empty">اكتب عنوان المشكله</string>
+</resources>
